@@ -1,0 +1,16 @@
+.entete{
+    display : flex;
+    justify-content: space-between;
+}
+.titre{
+    display: flex;
+    justify-content: center;
+}
+.sous-titre{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    display: flex;
+    justify-content: center ;
+}
